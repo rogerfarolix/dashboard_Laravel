@@ -19,3 +19,5 @@ pour les coordonnées, voir directement dans le seeder AdminSeeder
 
 adresse mail : "admin@example.com"
 Mot de passe : "password"
+
+![alt text](image.png)
