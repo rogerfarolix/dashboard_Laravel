@@ -1,8 +1,8 @@
 <!-- Sidebar -->
-<div class="sidebar" style="background-color:rgb(133, 236, 214)">
+<div class="sidebar" style="background-color:rgb(13, 247, 196)">
   <div class="sidebar-logo">
       <!-- Logo Header -->
-      <div class="logo-header" style="background-color:rgb(133, 236, 214)">
+      <div class="logo-header" style="background-color:rgb(7, 247, 195)">
           <a href="{{ url('/')}}" class="logo">
               <img src="{{ asset('assetsadmin/img/logo.png')}}" alt="navbar brand" class="navbar-brand" height="80" />
           </a>
